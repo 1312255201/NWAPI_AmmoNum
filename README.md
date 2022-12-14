@@ -1,7 +1,7 @@
 # NWAPI_AmmoNum - NW API Plugin
 Set the character's birth default ammo
 
-#Default Config
+##Default Config
 ```yaml
 # Set AmmonumOf ClassD Ammo12gauge Ammo9x19 Ammo44cal Ammo762x39 Ammo556x45
 ammo_of_class_d:
