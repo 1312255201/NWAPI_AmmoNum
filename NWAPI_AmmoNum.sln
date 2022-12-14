@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWAPI_AmmoNum", "NWAPI_AmmoNum\NWAPI_AmmoNum.csproj", "{5DB01C25-9E46-4DCB-BC81-6FB9B10EF7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB01C25-9E46-4DCB-BC81-6FB9B10EF7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB01C25-9E46-4DCB-BC81-6FB9B10EF7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB01C25-9E46-4DCB-BC81-6FB9B10EF7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB01C25-9E46-4DCB-BC81-6FB9B10EF7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C1B93F-8D21-452B-8D6C-A950C85D678D}
+	EndGlobalSection
+EndGlobal
